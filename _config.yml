@@ -6,7 +6,7 @@ permalink:        pretty
 
 # Setup
 title:            MHJohnsen
-tagline:          Writer
+tagline:          MHJohnsen - Writer
 url:              https://mhjohnsen.github.io
 shorturl:         mhjohnsen.github.io
 
@@ -25,7 +25,7 @@ github:
 # This is the list of pages to include in the header of the website.
 pages_list:       
   About: '/about/'
-  Study: '/writing'
+  Writing: '/writing'
   News: '/news'
 
 # Allow URL Redirects: 
