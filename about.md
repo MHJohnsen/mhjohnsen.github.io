@@ -12,3 +12,4 @@ I grew up in western Norway with its rough weather and cold seas, and spent my h
 Contact: <johnsenmh@gmail.com><br>
 Twitter: <a href="https://twitter.com/johnsen_mh">www.twitter.com/johnsen_mh</a><br>
  
+<img src="/images/avatar.jpg" alt="MHJohnsen" align="middle" style="width: 200px;"/> 
