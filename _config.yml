@@ -5,14 +5,14 @@ markdown:         kramdown
 permalink:        pretty
 
 # Setup
-title:            Herigstad Lab
-tagline:          Physiology in an air-polluted world
-url:              https://mariherigstad.github.io
-shorturl:         mariherigstad.github.io
+title:            MHJohnsen
+tagline:          Writer
+url:              https://mhjohnsen.github.io
+shorturl:         mhjohnsen.github.io
 
 author:
-  name:           'Herigstad Lab'
-  url:            https://mariherigstad.github.io
+  name:           'MHJohnsen'
+  url:            https://mhjohnsen.github.io
 
 paginate:         1
 
@@ -20,15 +20,12 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           github.com/mariherigstad/mariherigstad.github.io
+  repo:           github.com/mhjohnsen/mhjohnsen.github.io
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
   About: '/about/'
-  Research: '/research/'
-  Papers: '/papers/'
-  People: '/people/'
-  Study: '/study'
+  Study: '/writing'
   News: '/news'
 
 # Allow URL Redirects: 
