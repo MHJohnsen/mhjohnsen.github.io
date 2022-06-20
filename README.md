@@ -1,3 +1,3 @@
-# Herigstad Lab
+# MHJohnsen
 
-This is the website for the Herigstad lab, based at Sheffield Hallam University. 
+This is the website for M H Johnsen. 
